@@ -15,7 +15,7 @@ export const translations = {
     home: {
       heroTitle: 'Vintage Family Medicine and Pediatrics',
       heroSubtitle: 'Patient-centric, evidence-based, compassionate care',
-      heroDescription: 'Saves time and money while improving health outcomes. Less time waiting and more time with your physician.',
+      heroDescription: 'Save time and money while improving health outcomes. Less time waiting and more time with your physician.',
       careTitle: 'Care with Accountability',
       carePoints: [
         'Frustrated by your inability to reach your doctor on the phone or to get timely appointments scheduled when you need them?',
