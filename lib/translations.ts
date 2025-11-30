@@ -15,7 +15,7 @@ export const translations = {
     home: {
       heroTitle: 'Vintage Family Medicine and Pediatrics',
       heroSubtitle: 'Patient-centric, evidence-based, compassionate care',
-      heroDescription: 'Save time and money while improving health outcomes. Less time waiting and more time with your physician.',
+      heroDescription: 'Saves time and money while improving health outcomes. Less time waiting and more time with your physician.',
       careTitle: 'Care with Accountability',
       carePoints: [
         'Frustrated by your inability to reach your doctor on the phone or to get timely appointments scheduled when you need them?',
@@ -133,7 +133,7 @@ export const translations = {
       education: {
         title: 'Education',
         medical: '1986 graduate (dean\'s honor\'s list) University of Nigeria medical school',
-        internships: 'Internships - NHS Hospitals, England; St. Elizabeth Hospital medical center Youngstown, Ohio',
+        internships: 'Internships - NHS Hospitals, England\nSt. Elizabeth Hospital medical center Youngstown, Ohio',
         surgical: 'Surgical training - NHS Hospitals in the U.K. leading to award of diploma of fellow of the royal college of surgeons of Edinburgh',
         family: 'Family Medicine Training – SUNY Buffalo, NY ABFM Certifications',
       },
@@ -319,7 +319,7 @@ export const translations = {
       education: {
         title: 'Educación',
         medical: 'Graduado de 1986 (lista de honor del decano) Escuela de medicina de la Universidad de Nigeria',
-        internships: 'Pasantías - Hospitales del NHS, Inglaterra; Centro médico del Hospital St. Elizabeth Youngstown, Ohio',
+        internships: 'Pasantías - Hospitales del NHS, Inglaterra\nCentro médico del Hospital St. Elizabeth Youngstown, Ohio',
         surgical: 'Entrenamiento quirúrgico - Hospitales del NHS en el Reino Unido que llevan al otorgamiento del diploma de miembro del colegio real de cirujanos de Edimburgo',
         family: 'Entrenamiento en Medicina Familiar – Certificaciones SUNY Buffalo, NY ABFM',
       },

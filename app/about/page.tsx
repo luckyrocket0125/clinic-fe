@@ -1,11 +1,11 @@
 'use client';
 
 import { useLanguage } from '@/components/LanguageProvider';
-import { translations } from '@/lib/translations';
+import { getTranslations } from '@/lib/translations';
 
 export default function About() {
   const { language } = useLanguage();
-  const t = translations[language];
+  const t = getTranslations(language);
 
   return (
     <div className="about-page">
@@ -29,7 +29,7 @@ export default function About() {
                 <h3>{t.about.education.title}</h3>
                 <ul>
                   <li>{t.about.education.medical}</li>
-                  <li>{t.about.education.internships}</li>
+                  <li style={{ whiteSpace: 'pre-line' }}>{t.about.education.internships}</li>
                   <li>{t.about.education.surgical}</li>
                   <li>{t.about.education.family}</li>
                 </ul>
